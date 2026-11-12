@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+config.json
+downloads/
+.edge_tmp/
+_shot*.png
+_test_*.py
+build/
+dist/
+*.spec
+assets/*.bgra
